@@ -1,5 +1,5 @@
 # 💫 Elan Utta:
-🔭 I’m currently working on a Site https://www.alquimistadrinks.com/<br>🌱 I’m currently learning tailwindCss and making a pos in IA.<br>👯 I’m looking to collaborate on Open Source Project.<br>🤔 I’m looking for help with marketing in social media.<br>⚡ Fun fact: I love to be bald.
+🔭 🌱 I’m currently learning tailwindCss and making a pos in IA.<br>👯 I’m looking to collaborate on Open Source Project.<br>🤔 I’m looking for help with marketing in social media.<br>⚡ Fun fact: I love to be bald.
 
 
 ## 🌐 Socials:
